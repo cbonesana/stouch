@@ -1,0 +1,15 @@
+<map id="SerialModule::log" name="SerialModule::log">
+<area shape="rect" id="node3" href="$class_serial_module.html#a7c5709fbe66747cadd9a22ff904c56eb" title="SerialModule::SerialModule" alt="" coords="441,57,620,87"/>
+<area shape="rect" id="node5" href="$class_serial_module.html#ac7719732edf802296edba74c21f74b83" title="SerialModule::init" alt="" coords="217,83,340,112"/>
+<area shape="rect" id="node8" href="$class_serial_module.html#a059f6ed748e0c623e685a4b57f35057f" title="SerialModule::sendAndReceive" alt="" coords="177,136,380,165"/>
+<area shape="rect" id="node30" href="$class_serial_module.html#a62efa17b50642627bd67a394034d3434" title="SerialModule::process" alt="" coords="204,189,353,219"/>
+<area shape="rect" id="node10" href="$class_r_f_i_d_module.html#a0305199b87c251cf9319eb0e8b52666b" title="RFIDModule::sendAndRecieve" alt="" coords="429,136,632,165"/>
+<area shape="rect" id="node12" href="$class_r_f_i_d_module.html#a61acba3dbebdeaef890f278f5a7c5f53" title="RFIDModule::getAntennaStatus" alt="" coords="680,5,888,35"/>
+<area shape="rect" id="node14" href="$class_r_f_i_d_module.html#ab64b9302f5d4f6a8b2e3d46ac2f484eb" title="RFIDModule::getPower" alt="" coords="705,59,863,88"/>
+<area shape="rect" id="node16" href="$class_r_f_i_d_module.html#a506b10605ead1dfe83c553be3728247d" title="RFIDModule::setPower" alt="" coords="943,111,1100,140"/>
+<area shape="rect" id="node20" href="$class_r_f_i_d_module.html#a493784148cc21b07a6d7d2972be88b2a" title="RFIDModule::setProtocol" alt="" coords="936,164,1107,193"/>
+<area shape="rect" id="node23" href="$class_r_f_i_d_module.html#a0d54f010402add1d6530e3419755a148" title="RFIDModule::getProtocol" alt="" coords="699,213,869,243"/>
+<area shape="rect" id="node25" href="$class_r_f_i_d_module.html#ab57432668a4ca277ec614e895a0a4c16" title="RFIDModule::inventory" alt="" coords="705,267,863,296"/>
+<area shape="rect" id="node18" href="$class_r_f_i_d_inventory_module.html#a2d7618c7ef24c13cf840a1170d143861" title="RFIDInventoryModule\l::RFIDInventoryModule" alt="" coords="1156,155,1313,202"/>
+<area shape="rect" id="node27" href="$class_r_f_i_d_inventory_module.html#ada7634b03f0efa1ded87a4891ec9efcf" title="RFIDInventoryModule\l::update" alt="" coords="947,237,1096,283"/>
+</map>

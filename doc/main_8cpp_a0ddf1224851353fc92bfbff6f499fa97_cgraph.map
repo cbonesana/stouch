@@ -1,0 +1,29 @@
+<map id="main" name="main">
+<area shape="rect" id="node3" href="$main_8cpp.html#ae8a1bf8662880ee1ea2600ecc3a1976c" title="checkDirectories" alt="" coords="113,412,233,441"/>
+<area shape="rect" id="node5" href="$_signals_handlers_8cpp.html#aee33b763fdc53a89fee85c74a00962e4" title="initSignals" alt="" coords="132,465,215,495"/>
+<area shape="rect" id="node31" href="$class_raspberry_pi.html#a556a63da6a0eb4e3e746fa7566e0a8f5" title="RaspberryPi::create" alt="" coords="104,519,243,548"/>
+<area shape="rect" id="node64" href="$class_raspberry_pi.html#a95c68d77e129c553db1fce6e66ab64e6" title="RaspberryPi::start" alt="" coords="315,705,443,735"/>
+<area shape="rect" id="node7" href="$_signals_handlers_8cpp.html#ad57842dc423018eb796e57d1315c499c" title="handler" alt="" coords="347,139,411,168"/>
+<area shape="rect" id="node9" href="$class_signals_module.html#a3f35f607f10ea37648aba05a9bc59b78" title="SignalsModule::makeViewImage" alt="" coords="528,59,739,88"/>
+<area shape="rect" id="node15" href="$class_signals_module.html#a130610ee566d48cdac5378c4b73e46f1" title="SignalsModule::shutDownEverything" alt="" coords="516,112,751,141"/>
+<area shape="rect" id="node18" href="$class_signals_module.html#a651b17da83804a123a5c128e57bf9c03" title="SignalsModule::sendOfflineMode" alt="" coords="527,219,740,248"/>
+<area shape="rect" id="node23" href="$class_signals_module.html#acc97ea16a64fd59f3cfa3ca8deccf5ec" title="SignalsModule::sendOnlineMode" alt="" coords="528,5,739,35"/>
+<area shape="rect" id="node28" href="$class_signals_module.html#a40ea2b75713bd15a3b60b47b5b020598" title="SignalsModule::sendAcknowledge" alt="" coords="523,165,744,195"/>
+<area shape="rect" id="node11" href="$class_signals_module.html#adb1305f0e129d77e2831598afad2c4b1" title="SignalsModule::log" alt="" coords="839,112,969,141"/>
+<area shape="rect" id="node13" href="$class_signals_module.html#af8a58a62013f6f9fe0bc91f7f4ba3288" title="SignalsModule::newViewimg" alt="" coords="809,59,999,88"/>
+<area shape="rect" id="node21" href="$class_signals_module.html#aa80b714f926c20617ab634c86ff415c4" title="SignalsModule::offlineMode" alt="" coords="813,219,995,248"/>
+<area shape="rect" id="node26" href="$class_signals_module.html#a55da764ffcf1bd5b49173d5d5c01c023" title="SignalsModule::onlineMode" alt="" coords="813,5,995,35"/>
+<area shape="rect" id="node33" href="$class_raspberry_pi.html#ae836a26dc87d2c1b0e7f4d229f56ca95" title="RaspberryPi::RaspberryPi." alt="" coords="292,492,465,521"/>
+<area shape="rect" id="node35" href="$class_raspberry_pi.html#ae5cbe6e6fd576ea337455d8173d66f2f" title="RaspberryPi::init" alt="" coords="320,545,437,575"/>
+<area shape="rect" id="node37" href="$class_raspberry_pi.html#ad2133de299be16fcfb03b8c7f7f555db" title="RaspberryPi::log" alt="" coords="845,795,963,824"/>
+<area shape="rect" id="node39" href="$class_raspberry_pi.html#ad574cbee422d59088fcaddf6e4e69e65" title="RaspberryPi::RFIDfound." alt="" coords="551,637,716,667"/>
+<area shape="rect" id="node41" href="$class_raspberry_pi.html#a2c4c95c7b8eae21407fca8437f7253dc" title="RaspberryPi::disableAcquisition" alt="" coords="801,453,1007,483"/>
+<area shape="rect" id="node43" href="$class_raspberry_pi.html#a0023a2d50335312b98cf698f50ca346a" title="RaspberryPi::playSound" alt="" coords="823,688,985,717"/>
+<area shape="rect" id="node46" href="$class_raspberry_pi.html#acf2243f53f3ae2f742bdf000ec8c5c81" title="RaspberryPi::firstPhoto" alt="" coords="555,741,712,771"/>
+<area shape="rect" id="node52" href="$class_raspberry_pi.html#a5578cf80ed2d1551e9b04b1f50cd2aac" title="RaspberryPi::enableAcquisition" alt="" coords="532,323,735,352"/>
+<area shape="rect" id="node55" href="$class_raspberry_pi.html#a6e7961a404741e321860781eb26c909f" title="RaspberryPi::internalTake\lPhoto" alt="" coords="547,375,720,422"/>
+<area shape="rect" id="node57" href="$class_raspberry_pi.html#a18eb06e80ceb0317ea517465bc00d718" title="RaspberryPi::internalFirst\lPhoto" alt="" coords="548,445,719,491"/>
+<area shape="rect" id="node59" href="$class_raspberry_pi.html#a0fdf527b37c27753d0a9a241b41c55da" title="RaspberryPi::internalError" alt="" coords="548,515,719,544"/>
+<area shape="rect" id="node61" href="$class_raspberry_pi.html#a88dd7d4f27612cdf0f6f6cd219550009" title="RaspberryPi::internalTake\lPhotoOffline" alt="" coords="547,567,720,614"/>
+<area shape="rect" id="node48" href="$class_camera_module.html#a30be791516dddc323cda7bf88655fbae" title="The method CameraModule::takePhoto takes a photo with a wait time of millisec milliseconds and name i..." alt="" coords="816,741,992,771"/>
+</map>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StouchAdmin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_fragment">New Fragment</string>
+    <string name="instructions_title">Istruzioni</string>
+    <string name="email_address">Indirizzo e-mail</string>
+    <string name="lang_it">Italiano</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_de">Deutsch</string>
+    <string name="submit">Invia</string>
+    <string name="instructions">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et ligula urna. Integer commodo nec nulla at tincidunt. Cras adipiscing dictum fringilla. In volutpat nisi a tortor interdum sodales eget at dui. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque orci dolor, rutrum at eros eu, accumsan rhoncus nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis iaculis eros sit amet sem mattis pretium. Nulla et eros diam. Suspendisse volutpat turpis orci, ut blandit lacus vestibulum a.</string>
+    <string name="registration_tab">Registrazione</string>
+    <string name="config_tab">Configurazione</string>
+    <string name="lang_label">Lingua:</string>
+    <string name="crop_save_text">Invia</string>
+    <string name="crop_image_text">Ritaglia immagine</string>
+    <string name="current_image">Immagine attuale</string>
+    <string name="username">Nome utente</string>
+    <string name="password">Password</string>
+    <string name="save">Salva</string>
+    <string name="crop_tab">Ritaglio</string>
+    
+
+</resources>

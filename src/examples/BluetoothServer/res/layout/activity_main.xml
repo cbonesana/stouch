@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textViewEnabled"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textSize="@dimen/standard_size" />
+
+    <TextView 
+        android:id="@+id/textViewScanMode"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewEnabled"
+        android:layout_alignRight="@+id/textViewEnabled"
+        android:layout_below="@+id/textViewEnabled"
+        android:textSize="@dimen/standard_size" />
+    
+    <TextView
+        android:id="@+id/textViewCurrentState"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewEnabled"
+        android:layout_alignRight="@+id/textViewEnabled"
+        android:layout_below="@+id/textViewScanMode"
+        android:textSize="@dimen/standard_size" />
+
+    <TextView
+        android:id="@+id/textViewPreviousState"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewCurrentState"
+        android:layout_alignRight="@+id/textViewCurrentState"
+        android:layout_below="@+id/textViewCurrentState"
+        android:textSize="@dimen/standard_size" />
+
+    <Button
+        android:id="@+id/buttonScan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewPreviousState"
+        android:layout_below="@+id/textViewPreviousState"
+        android:text="@string/perform_scan"
+        android:textSize="@dimen/standard_size" />
+
+    <ListView
+        android:id="@+id/discoveryResults"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_alignLeft="@+id/textViewPreviousState"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/buttonScan" >
+    </ListView>
+    
+</RelativeLayout>

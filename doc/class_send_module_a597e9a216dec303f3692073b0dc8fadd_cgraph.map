@@ -1,0 +1,14 @@
+<map id="SendModule::startTask" name="SendModule::startTask">
+<area shape="rect" id="node3" href="$class_send_module.html#aa37cc60bae87ea0e8053d52b30b6ec50" title="SendModule::manageSocket\lError" alt="" coords="223,6,412,53"/>
+<area shape="rect" id="node9" href="$class_module.html#a5a038a11dcc1d362d7976e34369eef03" title="Module::log" alt="" coords="539,369,627,399"/>
+<area shape="rect" id="node11" href="$class_send_module.html#ae21ad5f802fdece476c32ddded901e8a" title="SendModule::manageSocket\lFinished" alt="" coords="223,75,412,122"/>
+<area shape="rect" id="node13" href="$class_send_module.html#a229a15b864ea50a56ed38fbe791e07f1" title="SendModule::socketSendFinished" alt="" coords="473,144,692,173"/>
+<area shape="rect" id="node16" href="$class_send_module.html#a165f93083c2c99328dcf9aaaf978b0b2" title="SendModule::taskStarted" alt="" coords="233,247,401,276"/>
+<area shape="rect" id="node19" href="$class_send_module.html#a04a0e9721effd0575de3fef6a4bba903" title="SendModule::readImageFile\lError" alt="" coords="225,299,409,346"/>
+<area shape="rect" id="node21" href="$class_socket_module.html#a7f714de214c6ec2386c09a8879cd0d0c" title="SocketModule::connectToServer" alt="" coords="212,369,423,399"/>
+<area shape="rect" id="node24" href="$class_socket_module.html#ac67ca7db2b5bf443b60b8941e5ba6648" title="SocketModule::write." alt="" coords="247,423,388,452"/>
+<area shape="rect" id="node26" href="$class_socket_module.html#a3d840871569af81d09ae8a0c9a01a735" title="SocketModule::close." alt="" coords="245,476,389,505"/>
+<area shape="rect" id="node29" href="$class_send_module.html#a698911c2cd6483db19c414d8a8d01eb1" title="SendModule::contactHttpServer" alt="" coords="213,529,421,559"/>
+<area shape="rect" id="node5" href="$class_send_module.html#a5ce480fd684ac810f9b1975d323ad480" title="SendModule::internalTask\lStart" alt="" coords="496,74,669,121"/>
+<area shape="rect" id="node7" href="$class_send_module.html#a582042643b3a852342e668277c8138a9" title="SendModule::connectionError\lSender" alt="" coords="487,5,679,51"/>
+</map>

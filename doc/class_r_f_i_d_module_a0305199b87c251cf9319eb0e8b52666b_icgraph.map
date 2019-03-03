@@ -1,0 +1,10 @@
+<map id="RFIDModule::sendAndRecieve" name="RFIDModule::sendAndRecieve">
+<area shape="rect" id="node3" href="$class_r_f_i_d_module.html#a61acba3dbebdeaef890f278f5a7c5f53" title="RFIDModule::getAntennaStatus" alt="" coords="256,5,464,35"/>
+<area shape="rect" id="node5" href="$class_r_f_i_d_module.html#ab64b9302f5d4f6a8b2e3d46ac2f484eb" title="RFIDModule::getPower" alt="" coords="281,59,439,88"/>
+<area shape="rect" id="node7" href="$class_r_f_i_d_module.html#a506b10605ead1dfe83c553be3728247d" title="RFIDModule::setPower" alt="" coords="519,111,676,140"/>
+<area shape="rect" id="node11" href="$class_r_f_i_d_module.html#a493784148cc21b07a6d7d2972be88b2a" title="RFIDModule::setProtocol" alt="" coords="512,164,683,193"/>
+<area shape="rect" id="node14" href="$class_r_f_i_d_module.html#a0d54f010402add1d6530e3419755a148" title="RFIDModule::getProtocol" alt="" coords="275,213,445,243"/>
+<area shape="rect" id="node16" href="$class_r_f_i_d_module.html#ab57432668a4ca277ec614e895a0a4c16" title="RFIDModule::inventory" alt="" coords="281,267,439,296"/>
+<area shape="rect" id="node9" href="$class_r_f_i_d_inventory_module.html#a2d7618c7ef24c13cf840a1170d143861" title="RFIDInventoryModule\l::RFIDInventoryModule" alt="" coords="732,155,889,202"/>
+<area shape="rect" id="node18" href="$class_r_f_i_d_inventory_module.html#ada7634b03f0efa1ded87a4891ec9efcf" title="RFIDInventoryModule\l::update" alt="" coords="523,237,672,283"/>
+</map>

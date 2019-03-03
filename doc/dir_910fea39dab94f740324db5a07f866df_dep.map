@@ -1,0 +1,20 @@
+<map id="trunk/Prototipo1b" name="trunk/Prototipo1b">
+<area shape="rect" id="node4" href="dir_dbc8ee95cba4e911ee587c84d76f6a5d.html" title="Camera" alt="" coords="37,161,109,209"/>
+<area shape="rect" id="edge4" href="dir_000001_000002.html" title="1" alt="" coords="126,158,134,176"/>
+<area shape="rect" id="node5" href="dir_02ee1bb513a2b932fcd9827c8f510c59.html" title="Connection" alt="" coords="133,161,221,209"/>
+<area shape="rect" id="edge10" href="dir_000001_000003.html" title="7" alt="" coords="226,149,234,166"/>
+<area shape="rect" id="node6" href="dir_a1f6c48a7562185fcbc28ac78abb0c7c.html" title="Log" alt="" coords="241,257,313,305"/>
+<area shape="rect" id="edge8" href="dir_000001_000004.html" title="4" alt="" coords="266,228,274,246"/>
+<area shape="rect" id="node7" href="dir_5915538d2d6aeb743712c3ad329866d3.html" title="RFID" alt="" coords="368,161,440,209"/>
+<area shape="rect" id="edge12" href="dir_000001_000005.html" title="3" alt="" coords="369,133,377,151"/>
+<area shape="rect" id="node8" href="dir_fe2fe3b3a2317247b34ee970682a0090.html" title="Serial" alt="" coords="399,257,471,305"/>
+<area shape="rect" id="edge6" href="dir_000001_000006.html" title="2" alt="" coords="458,234,466,252"/>
+<area shape="rect" id="node9" href="dir_4d6b3ed5db9acdb47b457e5775428ae8.html" title="Signals" alt="" coords="272,161,344,209"/>
+<area shape="rect" id="edge14" href="dir_000001_000007.html" title="3" alt="" coords="312,134,320,151"/>
+<area shape="rect" id="node10" href="dir_67c12b01fc8bc99a1058a7d677349271.html" title="Sound" alt="" coords="491,161,563,209"/>
+<area shape="rect" id="edge16" href="dir_000001_000008.html" title="1" alt="" coords="473,146,481,163"/>
+<area shape="rect" id="edge18" href="dir_000005_000006.html" title="1" alt="" coords="425,228,433,246"/>
+<area shape="rect" id="edge20" href="dir_000007_000004.html" title="2" alt="" coords="295,233,303,251"/>
+<area shape="rect" id="graph3" href="dir_910fea39dab94f740324db5a07f866df.html" alt="" coords="27,55,573,316"/>
+<area shape="rect" id="graph2" href="dir_4e3a55e2a9734425e24eb78aa4793941.html" title="trunk" alt="" coords="16,16,584,327"/>
+</map>

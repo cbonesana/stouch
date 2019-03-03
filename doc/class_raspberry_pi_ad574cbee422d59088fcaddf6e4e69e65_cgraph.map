@@ -1,0 +1,5 @@
+<map id="RaspberryPi::RFIDfound" name="RaspberryPi::RFIDfound">
+<area shape="rect" id="node3" href="$class_raspberry_pi.html#a2c4c95c7b8eae21407fca8437f7253dc" title="RaspberryPi::disableAcquisition" alt="" coords="223,5,428,35"/>
+<area shape="rect" id="node5" href="$class_raspberry_pi.html#a0023a2d50335312b98cf698f50ca346a" title="RaspberryPi::playSound" alt="" coords="244,59,407,88"/>
+<area shape="rect" id="node7" href="$class_raspberry_pi.html#ad2133de299be16fcfb03b8c7f7f555db" title="RaspberryPi::log" alt="" coords="267,112,384,141"/>
+</map>

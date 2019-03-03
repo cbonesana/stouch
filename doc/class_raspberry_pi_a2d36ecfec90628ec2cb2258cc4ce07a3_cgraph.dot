@@ -1,0 +1,13 @@
+digraph "RaspberryPi::takePhoto"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="RaspberryPi::takePhoto",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CameraModule::takePhoto",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_camera_module.html#a44035d98c501787e47e6ed465b4dcf05"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="CameraModule::log",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_camera_module.html#ac36fd71ff365598e6e7f0e622668a5bc"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="CameraModule::photoTaked",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_camera_module.html#a902c7dde9ff025d48e0f5fe97414fb26"];
+}

@@ -1,0 +1,10 @@
+<map id="CameraModule::log" name="CameraModule::log">
+<area shape="rect" id="node3" href="$class_camera_module.html#a1a99670ecaba0f89b8199d7e63c5f9ca" title="CameraModule::takePhoto" alt="" coords="191,5,367,35"/>
+<area shape="rect" id="node5" href="$class_camera_module.html#a3a21cc27eac6795fac37311b68d008de" title="CameraModule::cropImage" alt="" coords="189,59,368,88"/>
+<area shape="rect" id="node11" href="$class_camera_module.html#ac0a7d7550b0ddd7c575b3a9d62d25789" title="CameraModule::setX1" alt="" coords="203,112,355,141"/>
+<area shape="rect" id="node13" href="$class_camera_module.html#a39490be1c9f593d7c36f8faeaf4d4a59" title="CameraModule::setY1" alt="" coords="203,165,355,195"/>
+<area shape="rect" id="node15" href="$class_camera_module.html#ade96a39e0a6fe2d8d754ac892ad18073" title="CameraModule::setX2" alt="" coords="203,219,355,248"/>
+<area shape="rect" id="node17" href="$class_camera_module.html#a0dcfe866242aea74ce94f2b6cf661290" title="CameraModule::setY2" alt="" coords="203,272,355,301"/>
+<area shape="rect" id="node7" href="$class_raspberry_pi.html#aa395a1fe3c97b41e6d1f3ba8a3f3fd61" title="RaspberryPi::manageCropImage" alt="" coords="417,28,628,57"/>
+<area shape="rect" id="node9" href="$class_raspberry_pi.html#a2d9b41b439cc52ea102f80a87943ad77" title="RaspberryPi::manageExternal\lCropImage" alt="" coords="425,81,620,127"/>
+</map>

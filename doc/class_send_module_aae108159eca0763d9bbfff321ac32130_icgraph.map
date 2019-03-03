@@ -1,0 +1,5 @@
+<map id="SendModule::connectionErrorSender" name="SendModule::connectionErrorSender">
+<area shape="rect" id="node3" href="$class_send_module.html#aa37cc60bae87ea0e8053d52b30b6ec50" title="SendModule::manageSocket\lError" alt="" coords="248,5,437,51"/>
+<area shape="rect" id="node5" href="$class_send_module.html#a597e9a216dec303f3692073b0dc8fadd" title="SendModule::startTask" alt="" coords="485,13,643,43"/>
+<area shape="rect" id="node7" href="$class_send_module.html#a2680f244e9e145256afda246c2944d27" title="SendModule::SendModule" alt="" coords="692,13,865,43"/>
+</map>

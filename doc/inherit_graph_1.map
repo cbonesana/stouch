@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$class_h_t_t_p_manager.html" title="The HTTPManager class is used to contact the server, but not to send files." alt="" coords="131,59,237,88"/>
+<area shape="rect" id="node5" href="$class_h_t_t_p_response.html" title="The HTTPResponse class is used to store a JSON object." alt="" coords="127,112,241,141"/>
+<area shape="rect" id="node7" href="$class_log_module.html" title="LogModule" alt="" coords="141,165,227,195"/>
+<area shape="rect" id="node9" href="$class_module.html" title="Module" alt="" coords="152,219,216,248"/>
+<area shape="rect" id="node29" href="$class_raspberry_pi.html" title="The RaspberryPi class." alt="" coords="137,272,231,301"/>
+<area shape="rect" id="node11" href="$class_camera_module.html" title="The CameraModule class is used to manage image acquisition and manipulation." alt="" coords="312,5,421,35"/>
+<area shape="rect" id="node13" href="$class_h_t_t_p_module.html" title="The HTTPModule class is a module used to contact a remote server." alt="" coords="317,59,416,88"/>
+<area shape="rect" id="node15" href="$class_r_f_i_d_inventory_module.html" title="RFIDInventoryModule" alt="" coords="292,112,441,141"/>
+<area shape="rect" id="node17" href="$class_r_f_i_d_module.html" title="RFIDModule" alt="" coords="319,165,415,195"/>
+<area shape="rect" id="node19" href="$class_send_module.html" title="The SendModule class is used to send files to the server." alt="" coords="320,219,413,248"/>
+<area shape="rect" id="node21" href="$class_serial_module.html" title="SerialModule" alt="" coords="319,272,415,301"/>
+<area shape="rect" id="node23" href="$class_signals_module.html" title="SignalsModule" alt="" coords="313,325,420,355"/>
+<area shape="rect" id="node25" href="$class_socket_module.html" title="The SocketModule class is used to open and manage a QTCPSocket." alt="" coords="315,379,419,408"/>
+<area shape="rect" id="node27" href="$class_sound_module.html" title="SoundModule" alt="" coords="316,432,417,461"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SerialModule::sendAndReceive" name="SerialModule::sendAndReceive">
+<area shape="rect" id="node3" href="$class_serial_module.html#a09f340ee5f53ec24e6e5f1cdc1125cee" title="SerialModule::send" alt="" coords="265,5,399,35"/>
+<area shape="rect" id="node5" href="$class_serial_module.html#a72fdc7db8413673842c27c0f44c88aa3" title="SerialModule::log" alt="" coords="271,59,393,88"/>
+<area shape="rect" id="node7" href="$class_serial_module.html#afd49a5e120b179d1af298d33f410b7d2" title="SerialModule::receive" alt="" coords="259,112,405,141"/>
+</map>

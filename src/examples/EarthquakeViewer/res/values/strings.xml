@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EarthquakeViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="quake_feed">
+    	http://earthquake.usgs.gov/eqcenter/catalogs/1day-M2.5.xml
+  	</string>
+    <string name="menu_update">Refresh Earthquake</string>
+    <string name="auto_update_prompt">Auto Update?</string>
+    <string name="update_freq_prompt">Update Frequency</string>
+    <string name="min_quake_mag_prompt">Minimum Quake Magnitude</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="preferences_name">Earthquake Preferences</string>
+  	<string name="auto_refresh">Auto refresh</string>
+    <string name="refresh_freq">Refresh frequency</string>
+  	<string name="min_mag">Minimum magnitude</string>
+  	<string name="settings">Settings</string>
+  	<string name="search_description">Search earthquake locations</string>
+  	<string name="search">Earthquake Search</string>
+  	
+</resources>

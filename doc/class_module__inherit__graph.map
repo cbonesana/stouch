@@ -1,0 +1,11 @@
+<map id="Module" name="Module">
+<area shape="rect" id="node5" href="$class_camera_module.html" title="The CameraModule class is used to manage image acquisition and manipulation." alt="" coords="259,5,368,35"/>
+<area shape="rect" id="node7" href="$class_h_t_t_p_module.html" title="The HTTPModule class is a module used to contact a remote server." alt="" coords="264,59,363,88"/>
+<area shape="rect" id="node9" href="$class_r_f_i_d_inventory_module.html" title="RFIDInventoryModule" alt="" coords="239,112,388,141"/>
+<area shape="rect" id="node11" href="$class_r_f_i_d_module.html" title="RFIDModule" alt="" coords="265,165,361,195"/>
+<area shape="rect" id="node13" href="$class_send_module.html" title="The SendModule class is used to send files to the server." alt="" coords="267,219,360,248"/>
+<area shape="rect" id="node15" href="$class_serial_module.html" title="SerialModule" alt="" coords="265,272,361,301"/>
+<area shape="rect" id="node17" href="$class_signals_module.html" title="SignalsModule" alt="" coords="260,325,367,355"/>
+<area shape="rect" id="node19" href="$class_socket_module.html" title="The SocketModule class is used to open and manage a QTCPSocket." alt="" coords="261,379,365,408"/>
+<area shape="rect" id="node21" href="$class_sound_module.html" title="SoundModule" alt="" coords="263,432,364,461"/>
+</map>

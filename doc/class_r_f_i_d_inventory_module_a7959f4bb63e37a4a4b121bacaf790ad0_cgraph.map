@@ -1,0 +1,5 @@
+<map id="RFIDInventoryModule::stop" name="RFIDInventoryModule::stop">
+<area shape="rect" id="node3" href="$class_r_f_i_d_inventory_module.html#ac256d7301dc9639f79decb80c4f21e01" title="RFIDInventoryModule\l::stopTimer" alt="" coords="219,5,368,51"/>
+<area shape="rect" id="node5" href="$class_r_f_i_d_inventory_module.html#a64882fda6a6bd8301f1e2a05788be942" title="RFIDInventoryModule::log" alt="" coords="207,75,380,104"/>
+<area shape="rect" id="node7" href="$class_r_f_i_d_inventory_module.html#a5d1455a22dbb24bcb90bcce17b8b90e9" title="RFIDInventoryModule\l::finished" alt="" coords="219,127,368,174"/>
+</map>

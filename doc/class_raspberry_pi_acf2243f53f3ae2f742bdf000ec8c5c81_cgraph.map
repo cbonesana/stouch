@@ -1,0 +1,5 @@
+<map id="RaspberryPi::firstPhoto" name="RaspberryPi::firstPhoto">
+<area shape="rect" id="node3" href="$class_camera_module.html#a30be791516dddc323cda7bf88655fbae" title="The method CameraModule::takePhoto takes a photo with a wait time of millisec milliseconds and name i..." alt="" coords="215,5,391,35"/>
+<area shape="rect" id="node5" href="$class_raspberry_pi.html#a0023a2d50335312b98cf698f50ca346a" title="RaspberryPi::playSound" alt="" coords="221,59,384,88"/>
+<area shape="rect" id="node7" href="$class_raspberry_pi.html#ad2133de299be16fcfb03b8c7f7f555db" title="RaspberryPi::log" alt="" coords="244,112,361,141"/>
+</map>

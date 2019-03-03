@@ -1,0 +1,9 @@
+digraph "/home/dna/Development/stouch/trunk/Prototipo1b/Buttons" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_910fea39dab94f740324db5a07f866df {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Prototipo1b" fontname="Helvetica", fontsize="10", URL="dir_910fea39dab94f740324db5a07f866df.html"]
+  dir_ff09922d15b73e326cae66ba2b1d6b2a [shape=box, label="Buttons", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_ff09922d15b73e326cae66ba2b1d6b2a.html"];
+  }
+}

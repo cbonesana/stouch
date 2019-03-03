@@ -1,0 +1,24 @@
+<map id="RFIDInventoryModule::RFIDInventoryModule" name="RFIDInventoryModule::RFIDInventoryModule">
+<area shape="rect" id="node3" href="$class_r_f_i_d_module.html#a493784148cc21b07a6d7d2972be88b2a" title="RFIDModule::setProtocol" alt="" coords="415,5,585,35"/>
+<area shape="rect" id="node23" href="$class_r_f_i_d_module.html#a506b10605ead1dfe83c553be3728247d" title="RFIDModule::setPower" alt="" coords="421,59,579,88"/>
+<area shape="rect" id="node28" href="$class_r_f_i_d_inventory_module.html#ada7634b03f0efa1ded87a4891ec9efcf" title="RFIDInventoryModule\l::update" alt="" coords="215,279,364,326"/>
+<area shape="rect" id="node47" href="$class_r_f_i_d_inventory_module.html#ac256d7301dc9639f79decb80c4f21e01" title="RFIDInventoryModule\l::stopTimer" alt="" coords="425,650,575,697"/>
+<area shape="rect" id="node49" href="$class_r_f_i_d_inventory_module.html#a7959f4bb63e37a4a4b121bacaf790ad0" title="RFIDInventoryModule\l::stop" alt="" coords="215,538,364,585"/>
+<area shape="rect" id="node5" href="$class_r_f_i_d_module.html#a51b9602a13fb5a8e30b6200c0d93e792" title="RFIDModule::log" alt="" coords="676,5,796,35"/>
+<area shape="rect" id="node7" href="$class_r_f_i_d_message.html#af4d6b1f8fed65966fc4e5a1f4b5bb82a" title="RFIDMessage::addCommand" alt="" coords="639,59,833,88"/>
+<area shape="rect" id="node9" href="$class_r_f_i_d_module.html#a0305199b87c251cf9319eb0e8b52666b" title="RFIDModule::sendAndRecieve" alt="" coords="635,112,837,141"/>
+<area shape="rect" id="node11" href="$class_r_f_i_d_message.html#ac70b1898329da275daf0561daf643181" title="RFIDMessage::getBuffer" alt="" coords="904,59,1072,88"/>
+<area shape="rect" id="node13" href="$class_r_f_i_d_message.html#ac70808f9960dafcd3b71fa63695484cc" title="RFIDMessage::getLength" alt="" coords="903,112,1073,141"/>
+<area shape="rect" id="node15" href="$class_serial_module.html#a059f6ed748e0c623e685a4b57f35057f" title="SerialModule::sendAndReceive" alt="" coords="887,165,1089,195"/>
+<area shape="rect" id="node17" href="$class_serial_module.html#a09f340ee5f53ec24e6e5f1cdc1125cee" title="SerialModule::send" alt="" coords="1145,112,1279,141"/>
+<area shape="rect" id="node19" href="$class_serial_module.html#a72fdc7db8413673842c27c0f44c88aa3" title="SerialModule::log" alt="" coords="1151,165,1273,195"/>
+<area shape="rect" id="node21" href="$class_serial_module.html#afd49a5e120b179d1af298d33f410b7d2" title="SerialModule::receive" alt="" coords="1139,219,1285,248"/>
+<area shape="rect" id="node30" href="$class_r_f_i_d_module.html#ab57432668a4ca277ec614e895a0a4c16" title="RFIDModule::inventory" alt="" coords="421,235,579,264"/>
+<area shape="rect" id="node34" href="$class_r_f_i_d_message.html#a657606fa1fd41d94f89c4241c10f04a0" title="RFIDMessage::getRFIDs" alt="" coords="415,181,585,211"/>
+<area shape="rect" id="node36" href="$class_r_f_i_d_module.html#a489d75934311d2f5a7645a95e6b6d7f1" title="RFIDModule::parseRFID" alt="" coords="416,288,584,317"/>
+<area shape="rect" id="node38" href="$class_r_f_i_d_inventory_module.html#a64882fda6a6bd8301f1e2a05788be942" title="RFIDInventoryModule::log" alt="" coords="649,479,823,508"/>
+<area shape="rect" id="node40" href="$class_r_f_i_d_inventory_module.html#aba89db70216aefba09781ee7f037500c" title="RFIDInventoryModule\l::found" alt="" coords="425,410,575,457"/>
+<area shape="rect" id="node42" href="$class_r_f_i_d_inventory_module.html#a151e82f9d7a8af4a77fcadd663db6f7d" title="RFIDInventoryModule\l::disableInventory" alt="" coords="425,341,575,387"/>
+<area shape="rect" id="node45" href="$class_r_f_i_d_inventory_module.html#ac8ef1e99b105b6bf1f0b51e5768688d2" title="RFIDInventoryModule\l::newViewImage" alt="" coords="425,111,575,158"/>
+<area shape="rect" id="node53" href="$class_r_f_i_d_inventory_module.html#a5d1455a22dbb24bcb90bcce17b8b90e9" title="RFIDInventoryModule\l::finished" alt="" coords="425,581,575,627"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="trunk/Prototipo1b/RFID/RFIDModule.h" name="trunk/Prototipo1b/RFID/RFIDModule.h">
+<area shape="rect" id="node11" href="$_r_f_i_d_message_8h.html" title="RFIDMessage.h" alt="" coords="1563,101,1681,131"/>
+<area shape="rect" id="node32" href="$_serial_module_8h.html" title="../Serial/SerialModule.h" alt="" coords="405,101,562,131"/>
+<area shape="rect" id="node53" href="$_module_8h.html" title="../Module.h" alt="" coords="22,179,107,208"/>
+<area shape="rect" id="node13" href="$_r_f_i_dattribute_types_8h.html" title="RFIDattributeTypes.h" alt="" coords="1195,179,1342,208"/>
+<area shape="rect" id="node15" href="$_r_f_i_d_commands_codes_8h.html" title="RFIDCommandsCodes.h" alt="" coords="1366,179,1537,208"/>
+<area shape="rect" id="node17" href="$_r_f_i_d_exception_8h.html" title="RFIDException.h" alt="" coords="1561,179,1683,208"/>
+</map>

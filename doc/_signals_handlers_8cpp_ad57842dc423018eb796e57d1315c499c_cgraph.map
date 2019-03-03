@@ -1,0 +1,11 @@
+<map id="handler" name="handler">
+<area shape="rect" id="node3" href="$class_signals_module.html#a3f35f607f10ea37648aba05a9bc59b78" title="SignalsModule::makeViewImage" alt="" coords="131,5,341,35"/>
+<area shape="rect" id="node9" href="$class_signals_module.html#a130610ee566d48cdac5378c4b73e46f1" title="SignalsModule::shutDownEverything" alt="" coords="119,112,353,141"/>
+<area shape="rect" id="node12" href="$class_signals_module.html#a651b17da83804a123a5c128e57bf9c03" title="SignalsModule::sendOfflineMode" alt="" coords="129,165,343,195"/>
+<area shape="rect" id="node17" href="$class_signals_module.html#acc97ea16a64fd59f3cfa3ca8deccf5ec" title="SignalsModule::sendOnlineMode" alt="" coords="131,219,341,248"/>
+<area shape="rect" id="node22" href="$class_signals_module.html#a40ea2b75713bd15a3b60b47b5b020598" title="SignalsModule::sendAcknowledge" alt="" coords="125,59,347,88"/>
+<area shape="rect" id="node5" href="$class_signals_module.html#adb1305f0e129d77e2831598afad2c4b1" title="SignalsModule::log" alt="" coords="432,112,563,141"/>
+<area shape="rect" id="node7" href="$class_signals_module.html#af8a58a62013f6f9fe0bc91f7f4ba3288" title="SignalsModule::newViewimg" alt="" coords="403,5,592,35"/>
+<area shape="rect" id="node15" href="$class_signals_module.html#aa80b714f926c20617ab634c86ff415c4" title="SignalsModule::offlineMode" alt="" coords="407,165,588,195"/>
+<area shape="rect" id="node20" href="$class_signals_module.html#a55da764ffcf1bd5b49173d5d5c01c023" title="SignalsModule::onlineMode" alt="" coords="407,219,588,248"/>
+</map>

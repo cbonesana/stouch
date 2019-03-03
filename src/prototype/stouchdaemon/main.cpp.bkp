@@ -1,0 +1,236 @@
+#include <errno.h>
+#include <fcntl.h>
+#include <signal.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <syslog.h>
+#include <time.h>
+#include <unistd.h>
+#include <vector>
+
+#include <wiringPi.h>
+
+using namespace std;
+
+#define DAEMON_NAME "stouchd"
+#define RUNNING_DIR "/opt/stouch/daemon/"
+#define LOCK_FILE "stouchd.lock"
+#define LOG_FILE "stouchd.log"
+#define MIN_WAIT_TIME 2
+
+/* Daemon commands */
+#define D_REGIST_CLIENT 1   // register a new client
+#define D_REMOVE_CLIENT 2   // remove a client
+#define D_TOGGLE_BUTTON 3   // toggle button acquisition
+#define D_ACKNOWLEDGE 4     // acknowledge
+#define D_ERROR -1          // error
+
+/* Client commands */
+#define BUTTON_EVENT 0
+
+/*  code defensively, code defensively, code defensively! */
+
+int lfp;
+pid_t pid, sid;
+
+vector<int> clients;
+time_t lastUpdate;
+
+/* signal handler functions */
+
+/*!
+ * \fn void SIGTERM_handler(int signal)
+ * Handle the SIGTERM \a signal and clos safetly the daemon.
+ *
+ * \param sig signal recieved
+ */
+void SIGTERM_handler(int signal){
+    if (signal == SIGTERM){
+        /* finalize the server */
+        syslog(LOG_NOTICE, "Daemon is shutting down.");
+        if (lockf(lfp,F_ULOCK,0) < 0){
+            syslog(LOG_NOTICE, "Can't remove lock to %s%s", RUNNING_DIR, LOCK_FILE);
+            closelog();
+            exit(EXIT_FAILURE);
+        }
+        closelog();
+        exit(EXIT_SUCCESS);
+    }
+}
+
+/*!
+ * \fn void SIGUSR1_handler(int signal, siginfo_t *info, void *p)
+ * Handle the SIGUSR1 \a signal and execute commands.
+ *
+ * \param signal signal received
+ * \param info pointer struct
+ * \param p not used
+ */
+void SIGUSR1_handler(int signal, siginfo_t *info, void *p){
+    syslog(LOG_NOTICE, "Signal %d from pid %d ", signal, info->si_pid);
+    if (signal == SIGUSR1){
+        sigval_t value = info->si_value;
+        switch(value.sival_int){
+        case D_REGIST_CLIENT:
+            syslog(LOG_NOTICE, "New client with pid %d", info->si_pid);
+            clients.push_back(info->si_pid);
+            break;
+        case D_REMOVE_CLIENT:
+            syslog(LOG_NOTICE, "Remove client request from pid %d", info->si_pid);
+            break;
+        case D_TOGGLE_BUTTON:
+            syslog(LOG_NOTICE, "Toggle button acquisition from pid %d", info->si_pid);
+            break;
+        case D_ACKNOWLEDGE:
+            syslog(LOG_NOTICE, "Client with pid %d acknowlodge", info->si_pid);
+            break;
+        case D_ERROR:
+            syslog(LOG_NOTICE, "Client with pid %d raise an error", info->si_pid);
+            break;
+        default:
+            break;
+        }
+    }
+}
+
+/* WirinPi buttons handler */
+/*!
+ * \fn interruptHandler
+ * Handle the buttons event throught the GPIO pins. Each valid input have a 2 seconds
+ * time where no other signal would be generated.
+ */
+void interruptHandler()
+{
+    syslog(LOG_NOTICE, "Button pression detected. Sending signals.");
+    time_t currentTime = time(NULL);
+
+    if (currentTime > lastUpdate + MIN_WAIT_TIME) {
+        lastUpdate = currentTime;
+        union sigval value;
+        value.sival_int = 0;
+        for(vector<int>::iterator it = clients.begin(); it != clients.end(); ++it) {
+            sigqueue((*it),SIGUSR1,value);
+            syslog(LOG_NOTICE, "Sent signal to process %d", (*it));
+        }
+    }
+}
+
+/*!
+ * \brief main
+ * To launch the daemon simply execute the program.
+ * To terminate, send a SIGTERM signal to the daemon.
+ * The process id is store in the lock file /opt/stouch/daemon/stouchd.lock
+ *
+ * \param argc not used
+ * \param argv not used
+ * \return 0 with success, otherwise -1
+ */
+int main(int argc, char *argv[])
+{
+    //Set our Logging Mask and open the Log
+    setlogmask(LOG_UPTO(LOG_NOTICE));
+    openlog(DAEMON_NAME, LOG_CONS | LOG_NDELAY | LOG_PERROR | LOG_PID, LOG_USER);
+
+    syslog(LOG_NOTICE, "Stouch button daemon online");
+
+    /* Fork off the parent process */
+    pid = fork();
+    if (pid < 0) {
+        syslog(LOG_NOTICE, "Fork failed");
+        exit(EXIT_FAILURE);
+    }
+
+    /* If we got a good PID, then we can exit the parent process. */
+    if (pid > 0) {
+        syslog(LOG_NOTICE, "Fork successfull");
+        exit(EXIT_SUCCESS);
+    }
+
+    /* Change the file mode mask */
+    umask(0);
+
+    /* Open any logs here */
+    /* Syslog used */
+
+    /* Create a new SID for the child process */
+    sid = setsid();
+    if (sid < 0) {
+        syslog(LOG_NOTICE, "SID failed");
+        exit(EXIT_FAILURE);
+    }
+    syslog(LOG_NOTICE, "SID set to %d", sid);
+
+    /* Close out the standard file descriptors */
+    close(STDIN_FILENO);
+    close(STDOUT_FILENO);
+    close(STDERR_FILENO);
+
+    /* Daemon-specific initialization */
+
+    /* Change the current working directory */
+    if ((chdir(RUNNING_DIR)) < 0) {
+        syslog(LOG_NOTICE, "Directory %s doesn't exist", RUNNING_DIR);
+        exit(EXIT_FAILURE);
+    }
+    syslog(LOG_NOTICE, "Running dir changed to %s", RUNNING_DIR);
+
+    /* Try open the lock file */
+    lfp = open(LOCK_FILE, O_RDWR|O_CREAT, 0644);
+    if (lfp < 0){
+        syslog(LOG_NOTICE, "Can't open file %s%s", RUNNING_DIR, LOCK_FILE);
+        exit(EXIT_FAILURE);
+    }
+    if (lockf(lfp,F_TLOCK,0) < 0) {
+        syslog(LOG_NOTICE, "Lock already used. A demon is working");
+        exit(EXIT_FAILURE);
+    }
+    syslog(LOG_NOTICE, "Lock file %s%s open", RUNNING_DIR, LOCK_FILE);
+
+    /* record pid to lockfile */
+    char str[255];
+    sprintf(str,"%d\n",getpid());
+    write(lfp,str,strlen(str));
+
+    /* Catching signals */
+    signal(SIGCHLD, SIG_IGN);           /* child terminate signal */
+    signal(SIGTERM, SIGTERM_handler);   /* software termination signal from kill */
+
+    struct sigaction act;
+    act.sa_flags = SA_SIGINFO;
+    act.sa_sigaction = SIGUSR1_handler;
+
+    if (sigaction(SIGUSR1, &act, NULL)){     /* handler for client registration */
+        syslog(LOG_NOTICE, "Failed to set sigaction");
+        exit(EXIT_FAILURE);
+    }
+
+    /* Wiring Pi setup */
+    if(wiringPiSetup() < 0){
+        syslog(LOG_NOTICE, "Unable to setup wiringPi");
+        exit(EXIT_FAILURE);
+    }
+    pinMode(0,INPUT);
+    pinMode(1,OUTPUT);
+
+    digitalWrite(1,HIGH);
+
+    /* ISR */
+    if (wiringPiISR(0, INT_EDGE_FALLING, interruptHandler) < 0) {
+        syslog(LOG_NOTICE, "Unable to setup ISR");
+        exit(EXIT_FAILURE);
+    }
+
+    syslog(LOG_NOTICE, "Start main loop");
+
+    /* The Big Loop */
+    while (1) {
+        sleep(1);
+    }
+
+    closelog();
+
+    exit(EXIT_SUCCESS);
+}

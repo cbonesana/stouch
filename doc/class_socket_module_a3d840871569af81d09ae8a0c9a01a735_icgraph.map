@@ -1,0 +1,6 @@
+<map id="SocketModule::close" name="SocketModule::close">
+<area shape="rect" id="node3" href="$class_send_module.html#a597e9a216dec303f3692073b0dc8fadd" title="SendModule::startTask" alt="" coords="215,5,372,35"/>
+<area shape="rect" id="node7" href="$class_socket_module.html#a42b3f902554bc964deda173da4cfb066" title="SocketModule::disconnected." alt="" coords="199,59,388,88"/>
+<area shape="rect" id="node5" href="$class_send_module.html#a2680f244e9e145256afda246c2944d27" title="SendModule::SendModule" alt="" coords="449,5,623,35"/>
+<area shape="rect" id="node9" href="$class_socket_module.html#ac5cf44d51789d69beea58efdf95185c5" title="SocketModule::SocketModule." alt="" coords="439,59,633,88"/>
+</map>

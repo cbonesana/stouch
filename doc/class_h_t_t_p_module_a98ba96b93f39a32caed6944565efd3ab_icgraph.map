@@ -1,0 +1,6 @@
+<map id="HTTPModule::log" name="HTTPModule::log">
+<area shape="rect" id="node3" href="$class_h_t_t_p_module.html#a737a88f730076d5b57f41619c9e6ba84" title="HTTPModule::manageConnection\lError" alt="" coords="179,5,397,51"/>
+<area shape="rect" id="node5" href="$class_h_t_t_p_module.html#a4db35b190eb5a78e7650b5acbcefd203" title="HTTPModule::manageResponses" alt="" coords="179,75,397,104"/>
+<area shape="rect" id="node7" href="$class_h_t_t_p_module.html#aedfb81a9c8744730824eb5e3cdcf21b2" title="HTTPModule::goOfflineMode" alt="" coords="193,128,383,157"/>
+<area shape="rect" id="node9" href="$class_h_t_t_p_module.html#a4149c1eab6d7bc941bdffdb63989881d" title="HTTPModule::goOnlineMode" alt="" coords="193,181,383,211"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="SocketModule::log" name="SocketModule::log">
+<area shape="rect" id="node3" href="$class_socket_module.html#ac5cf44d51789d69beea58efdf95185c5" title="SocketModule::SocketModule" alt="" coords="687,66,881,96"/>
+<area shape="rect" id="node5" href="$class_socket_module.html#a7f714de214c6ec2386c09a8879cd0d0c" title="SocketModule::connectToServer" alt="" coords="185,300,396,329"/>
+<area shape="rect" id="node11" href="$class_socket_module.html#a10691deb5d28f2bf29c7f5d2fc1ee636" title="SocketModule::connected" alt="" coords="455,40,628,69"/>
+<area shape="rect" id="node14" href="$class_socket_module.html#a42b3f902554bc964deda173da4cfb066" title="SocketModule::disconnected" alt="" coords="447,146,636,176"/>
+<area shape="rect" id="node17" href="$class_socket_module.html#a9df0ebef045fd1a2d750f5166b18cf88" title="SocketModule::error" alt="" coords="472,93,611,122"/>
+<area shape="rect" id="node20" href="$class_socket_module.html#a1526fff1a07139576ed5ce35a8f6f116" title="SocketModule::write" alt="" coords="220,246,361,276"/>
+<area shape="rect" id="node22" href="$class_socket_module.html#a3d840871569af81d09ae8a0c9a01a735" title="SocketModule::close" alt="" coords="219,193,363,222"/>
+<area shape="rect" id="node7" href="$class_send_module.html#a597e9a216dec303f3692073b0dc8fadd" title="SendModule::startTask" alt="" coords="463,249,620,278"/>
+<area shape="rect" id="node9" href="$class_send_module.html#a2680f244e9e145256afda246c2944d27" title="SendModule::SendModule" alt="" coords="697,249,871,278"/>
+</map>

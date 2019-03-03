@@ -1,0 +1,17 @@
+<map id="trunk/Prototipo1b/Raspberrypi.h" name="trunk/Prototipo1b/Raspberrypi.h">
+<area shape="rect" id="node25" href="$_signals_module_8h.html" title="Signals/SignalsModule.h" alt="" coords="656,160,821,189"/>
+<area shape="rect" id="node51" href="$_log_module_8h.html" title="../Log/LogModule.h" alt="" coords="1098,237,1232,267"/>
+<area shape="rect" id="node69" href="$_signals_handlers_8h.html" title="Signals/SignalsHandlers.h" alt="" coords="1136,83,1309,112"/>
+<area shape="rect" id="node78" href="$_camera_module_8h.html" title="Camera/CameraModule.h" alt="" coords="1256,237,1426,267"/>
+<area shape="rect" id="node86" href="$config_8h.html" title="../config.h" alt="" coords="1590,315,1670,344"/>
+<area shape="rect" id="node89" href="$_connection_image_8h.html" title="Connection/ConnectionImage.h" alt="" coords="3473,83,3678,112"/>
+<area shape="rect" id="node92" href="$_h_t_t_p_manager_8h.html" title="Connection/HTTPManager.h" alt="" coords="2546,160,2733,189"/>
+<area shape="rect" id="node110" href="$_h_t_t_p_response_8h.html" title="HTTPResponse.h" alt="" coords="3760,237,3885,267"/>
+<area shape="rect" id="node121" href="$_socket_module_8h.html" title="Connection/SocketModule.h" alt="" coords="3346,237,3533,267"/>
+<area shape="rect" id="node127" href="$_serial_module_8h.html" title="Serial/SerialModule.h" alt="" coords="1829,237,1973,267"/>
+<area shape="rect" id="node137" href="$_r_f_i_d_module_8h.html" title="RFID/RFIDModule.h" alt="" coords="3238,160,3380,189"/>
+<area shape="rect" id="node145" href="$_r_f_i_d_inventory_module_8h.html" title="RFID/RFIDInventoryModule.h" alt="" coords="2957,83,3154,112"/>
+<area shape="rect" id="node155" href="$_sound_module_8h.html" title="Sound/SoundModule.h" alt="" coords="1602,237,1754,267"/>
+<area shape="rect" id="node49" href="$_signals_exception_8h.html" title="SignalsException.h" alt="" coords="320,237,453,267"/>
+<area shape="rect" id="node66" href="$_module_8h.html" title="../Module.h" alt="" coords="2490,315,2576,344"/>
+</map>

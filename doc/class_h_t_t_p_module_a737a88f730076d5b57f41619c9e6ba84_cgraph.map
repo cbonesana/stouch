@@ -1,0 +1,5 @@
+<map id="HTTPModule::manageConnectionError" name="HTTPModule::manageConnectionError">
+<area shape="rect" id="node3" href="$class_module.html#a5a038a11dcc1d362d7976e34369eef03" title="Module::log" alt="" coords="340,5,428,35"/>
+<area shape="rect" id="node5" href="$class_h_t_t_p_module.html#a839ef958c2f28219752e683b92c649b2" title="HTTPModule::connectionErrorHttp" alt="" coords="273,59,495,88"/>
+<area shape="rect" id="node7" href="$class_h_t_t_p_module.html#a4ee5c4b0aa6b4e4ec674bc1c413cd5d2" title="HTTPModule::sigBackScan" alt="" coords="292,112,476,141"/>
+</map>

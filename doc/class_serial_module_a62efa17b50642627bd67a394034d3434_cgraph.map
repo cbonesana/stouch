@@ -1,0 +1,6 @@
+<map id="SerialModule::process" name="SerialModule::process">
+<area shape="rect" id="node3" href="$class_serial_module.html#a72fdc7db8413673842c27c0f44c88aa3" title="SerialModule::log" alt="" coords="237,5,360,35"/>
+<area shape="rect" id="node5" href="$class_serial_module.html#a9beaaeb70b7e4e2ce84c436080690369" title="SerialModule::finished" alt="" coords="224,59,373,88"/>
+<area shape="rect" id="node7" href="$class_serial_module.html#ac52a7954180e47c8767093e41be49ed8" title="SerialModule::dataReceived" alt="" coords="207,112,391,141"/>
+<area shape="rect" id="node9" href="$class_serial_module.html#a8289a6f2bd55184cfc859f65f0610758" title="SerialModule::charReceived" alt="" coords="207,165,391,195"/>
+</map>

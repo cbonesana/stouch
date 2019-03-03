@@ -1,0 +1,4 @@
+<map id="CameraModule::cropImage" name="CameraModule::cropImage">
+<area shape="rect" id="node3" href="$class_raspberry_pi.html#aa395a1fe3c97b41e6d1f3ba8a3f3fd61" title="RaspberryPi::manageCropImage" alt="" coords="233,5,444,35"/>
+<area shape="rect" id="node5" href="$class_raspberry_pi.html#a2d9b41b439cc52ea102f80a87943ad77" title="RaspberryPi::manageExternal\lCropImage" alt="" coords="241,58,436,105"/>
+</map>

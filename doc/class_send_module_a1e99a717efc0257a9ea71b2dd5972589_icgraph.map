@@ -1,0 +1,8 @@
+<map id="SendModule::log" name="SendModule::log">
+<area shape="rect" id="node3" href="$class_send_module.html#a597e9a216dec303f3692073b0dc8fadd" title="SendModule::startTask" alt="" coords="199,5,356,35"/>
+<area shape="rect" id="node7" href="$class_send_module.html#a09602f4db8150bcb0c66c9f94c747fea" title="SendModule::goOfflineMode" alt="" coords="184,59,371,88"/>
+<area shape="rect" id="node9" href="$class_send_module.html#ae23e3fcf85f122fafe65eb7fa7fa52be" title="SendModule::goOnlineMode" alt="" coords="185,112,369,141"/>
+<area shape="rect" id="node11" href="$class_send_module.html#a7a4fa0c31febcab0f9a83a28c4b7344c" title="SendModule::manageTestRFID" alt="" coords="175,165,380,195"/>
+<area shape="rect" id="node13" href="$class_send_module.html#a646d0df58f67d4311590d29c535e2a94" title="SendModule::manageTestCrop" alt="" coords="176,219,379,248"/>
+<area shape="rect" id="node5" href="$class_send_module.html#a2680f244e9e145256afda246c2944d27" title="SendModule::SendModule" alt="" coords="431,5,604,35"/>
+</map>

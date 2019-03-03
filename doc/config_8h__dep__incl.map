@@ -1,0 +1,11 @@
+<map id="trunk/Prototipo1b/config.h" name="trunk/Prototipo1b/config.h">
+<area shape="rect" id="node3" href="$_camera_module_8h.html" title="trunk/Prototipo1b/Camera\l/CameraModule.h" alt="" coords="140,83,311,130"/>
+<area shape="rect" id="node7" href="$_raspberrypi_8h.html" title="trunk/Prototipo1b/Raspberrypi.h" alt="" coords="200,188,405,217"/>
+<area shape="rect" id="node9" href="$main_8cpp.html" title="trunk/Prototipo1b/main.cpp" alt="" coords="521,275,700,304"/>
+<area shape="rect" id="node13" href="$_send_module_8h.html" title="trunk/Prototipo1b/Connection\l/SendModule.h" alt="" coords="601,83,791,130"/>
+<area shape="rect" id="node18" href="$_r_f_i_d_inventory_module_8h.html" title="trunk/Prototipo1b/RFID\l/RFIDInventoryModule.h" alt="" coords="385,83,551,130"/>
+<area shape="rect" id="node5" href="$_camera_module_8cpp.html" title="trunk/Prototipo1b/Camera\l/CameraModule.cpp" alt="" coords="5,179,176,226"/>
+<area shape="rect" id="node11" href="$_raspberrypi_8cpp.html" title="trunk/Prototipo1b/Raspberrypi.cpp" alt="" coords="193,275,412,304"/>
+<area shape="rect" id="node15" href="$_send_module_8cpp.html" title="trunk/Prototipo1b/Connection\l/SendModule.cpp" alt="" coords="733,179,923,226"/>
+<area shape="rect" id="node22" href="$_r_f_i_d_inventory_module_8cpp.html" title="trunk/Prototipo1b/RFID\l/RFIDInventoryModule.cpp" alt="" coords="480,179,659,226"/>
+</map>

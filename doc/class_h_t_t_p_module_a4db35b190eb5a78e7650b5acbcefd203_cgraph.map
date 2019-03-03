@@ -1,0 +1,9 @@
+<map id="HTTPModule::manageResponses" name="HTTPModule::manageResponses">
+<area shape="rect" id="node3" href="$class_h_t_t_p_response.html#aa4a7102b49daad23f2e492cdb923eeba" title="HTTPResponse::get" alt="" coords="307,5,448,35"/>
+<area shape="rect" id="node5" href="$class_h_t_t_p_module.html#af4923308acc6556d6a9a640460eb1ddc" title="HTTPModule::sigCheckUserDet" alt="" coords="272,59,483,88"/>
+<area shape="rect" id="node7" href="$class_module.html#a5a038a11dcc1d362d7976e34369eef03" title="Module::log" alt="" coords="333,112,421,141"/>
+<area shape="rect" id="node9" href="$class_h_t_t_p_module.html#a8201c05907b8fb7cbe626bb9a549f281" title="HTTPModule::sigSetRFID" alt="" coords="289,165,465,195"/>
+<area shape="rect" id="node11" href="$class_h_t_t_p_module.html#a74abb7b00e23528573a9d25702df01a4" title="HTTPModule::sigTestRFID" alt="" coords="287,219,468,248"/>
+<area shape="rect" id="node13" href="$class_h_t_t_p_module.html#a163fed15480c3a08d5778093df4b48bd" title="HTTPModule::sigGetCrop" alt="" coords="291,272,464,301"/>
+<area shape="rect" id="node15" href="$class_h_t_t_p_module.html#aa85f9ffac9dee693f93b921f7ad37afb" title="HTTPModule::sigTestCrop" alt="" coords="288,325,467,355"/>
+</map>

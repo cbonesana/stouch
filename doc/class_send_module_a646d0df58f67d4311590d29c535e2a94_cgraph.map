@@ -1,0 +1,5 @@
+<map id="SendModule::manageTestCrop" name="SendModule::manageTestCrop">
+<area shape="rect" id="node3" href="$class_send_module.html#a74a072b9c994dabb3e064b1e7bc2de19" title="SendModule::externalCrop\lImage" alt="" coords="256,5,432,51"/>
+<area shape="rect" id="node5" href="$class_module.html#a5a038a11dcc1d362d7976e34369eef03" title="Module::log" alt="" coords="300,75,388,104"/>
+<area shape="rect" id="node7" href="$class_send_module.html#a5ce480fd684ac810f9b1975d323ad480" title="SendModule::internalTask\lStart" alt="" coords="257,127,431,174"/>
+</map>

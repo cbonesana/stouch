@@ -1,0 +1,4 @@
+<map id="SignalsModule::buttonNotify" name="SignalsModule::buttonNotify">
+<area shape="rect" id="node3" href="$class_signals_module.html#adb1305f0e129d77e2831598afad2c4b1" title="SignalsModule::log" alt="" coords="275,5,405,35"/>
+<area shape="rect" id="node5" href="$class_signals_module.html#af1eb4695a6ea70b2ca118062cd84ba70" title="SignalsModule::buttonPressed" alt="" coords="241,59,439,88"/>
+</map>

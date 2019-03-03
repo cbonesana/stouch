@@ -1,0 +1,5 @@
+<map id="HTTPManager::contactServer" name="HTTPManager::contactServer">
+<area shape="rect" id="node3" href="$class_h_t_t_p_manager.html#addd7979a9137d37ce52663cfca8468d1" title="HTTPManager::contactServer" alt="" coords="252,5,447,35"/>
+<area shape="rect" id="node5" href="$class_h_t_t_p_module.html#a4af2bc5d93d1395a82bc2e31431ef948" title="HTTPModule::logOnServer" alt="" coords="260,59,439,88"/>
+<area shape="rect" id="node7" href="$class_h_t_t_p_module.html#ac499cccf7d0235abd5c1b5b3a0ea9788" title="HTTPModule::contactServer" alt="" coords="256,112,443,141"/>
+</map>

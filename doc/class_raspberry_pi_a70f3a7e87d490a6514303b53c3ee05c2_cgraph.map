@@ -1,0 +1,5 @@
+<map id="RaspberryPi::manageBackScan" name="RaspberryPi::manageBackScan">
+<area shape="rect" id="node3" href="$class_raspberry_pi.html#ad2133de299be16fcfb03b8c7f7f555db" title="RaspberryPi::log" alt="" coords="305,5,423,35"/>
+<area shape="rect" id="node5" href="$class_raspberry_pi.html#a0023a2d50335312b98cf698f50ca346a" title="RaspberryPi::playSound" alt="" coords="283,59,445,88"/>
+<area shape="rect" id="node7" href="$class_raspberry_pi.html#a5578cf80ed2d1551e9b04b1f50cd2aac" title="RaspberryPi::enableAcquisition" alt="" coords="263,112,465,141"/>
+</map>

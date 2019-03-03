@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTVKeyboard</string>
+    <string name="btn_annulla">CANCEL</string>
+    <string name="btn_invio">ENTER</string>
+    <string name="btn_video_search">VIDEO SEARCH</string>
+    <string name="btn_web_search">WEB SEARCH</string>
+    <string name="btn_num" formatted="false">123</string>
+    <string name="btn_keyboard">KEYBOARD</string>
+    <string name="btn_back">BACK</string>
+    <string name="btn_guide">GUIDE</string>
+    <string name="btn_chlist">CH LIST</string>
+    <string name="btn_commercialat">\u0040</string>
+    <string name="btn_com">.com</string>
+    <string name="btn_line">-</string>
+    <string name="btn_lowline">_</string>
+    <string name="btn_slash">/</string>
+    <string name="btn_dot">.</string>
+    <string name="text_login">Skype Name</string>
+    <string name="text_password">Password</string>
+    <string name="btn_sign_in_text">Sign in</string>
+    <string name="btn_create_new_account">Create New Account</string>
+    <string name="btn_skype_login">Log in</string>
+    <string name="btn_skype_logout">Log out</string>
+    <string name="btn_skype_call">Call</string>
+    <string name="btn_skype_end_call">End call</string>
+    
+    <string name="text_blurosso_logo">BLUROSSO</string>
+    <string name="text_skype_video_conference">Video Conferencing</string>
+    <string name="skype_userid">UserId : </string>
+    <string name="preference_key_skype_name">skype_name</string>
+    <!-- add account -->
+    <string name="skype_account_full_name">Full Name</string>
+    <string name="skype_account_skype_name" >Skype name</string>
+    <string name="skype_account_pwd" >Password</string>
+    <string name="skype_account_reped_pwd" >Repeat Password</string>
+    <string name="skype_account_accept_terms" >Accept Skype terms?</string>
+    <string name="skype_account_show_terms" >View Skype End User Terms </string>
+    <string name="skype_account_show_privacy">View Skype Privacy Policy </string>
+    <string name="skype_account_enter">Enter</string>
+    
+    
+
+    <!-- Content description -->
+    <string name="content_descrypt_image">image</string>
+
+    <!-- Preferences -->
+    <string name="preference_key_version">Version</string>
+    <string name="preference_version">0.00.000</string>
+    
+
+    <!-- Messages -->
+    <string name="bt_not_supported">Bluetooth is not supported</string>
+    <string name="bt_not_available">Bluetooth is not available</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving
+		AndroidTVKeyboard .</string>
+    <string name="sdcard_not_available">SDCARD is unmounted. AppManagment is not available</string>
+    <string name="zip_not_found">ZipFile not found	</string>
+    <string name="dialog_wait">Please wait</string>
+    <string name="bt_connection_lost">Connection with BLUROSSO was lost. Reconnecting.</string>
+  
+    <string name="skype_cheks_name_size">Skype Name must be longer than 6 characters and shorter than 150.</string>
+    <string name="skype_cheks_pwd_size">Skype Password must be longer than 4 characters.</string>
+    <string name="skype_cheks_pwd_equals">Different values in Password fields.</string>
+    <string name="skype_login_null_fields">Fill in the skypename and password/</string>
+    <!-- States -->
+    <string name="state">BTState: </string>
+    <string name="state_conecting">Connecting</string>
+    <string name="state_search">Searching for BLUROSSO</string>
+    <string name="state_connected">Connected to BLUROSSO</string>
+    <string name="state_send">Sending message</string>
+    <string name="state_none">Service was just created.</string>
+    <string name="toast_no_load_xml">Unable to download file with version</string>
+    <string name="toast_no_load_apk">Unable to download apk file </string>
+    <string name="toast_do_not_need_update">You already have the latest version of the
+		application</string>
+    <string name="toast_cant_update">Unable to update</string>
+    <string name="toast_unable_connect_to_ftp">Unable to connect to FTP server. Check your
+		connection.</string>
+		<string name="disconnected_with_service">We disconnected with service..</string>
+    <string name="toast_unable_disconnect_to_ftp">Unable to disconnect to FTP server.</string>
+    <string name="toast_file_not_found"> file not found.</string>
+    <string name="toast_eror_while_read"> An error occurred while reading the file  </string>
+    <string name="service_started">We are started</string>
+    <string name="service_label">AndroidTVKeyboard</string>
+
+    <!-- numPad Text -->
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+    <string name="num_0">0</string>
+
+</resources>

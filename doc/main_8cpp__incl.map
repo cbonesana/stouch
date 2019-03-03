@@ -1,0 +1,20 @@
+<map id="trunk/Prototipo1b/main.cpp" name="trunk/Prototipo1b/main.cpp">
+<area shape="rect" id="node21" href="$_connection_image_8h.html" title="Connection/ConnectionImage.h" alt="" coords="3373,315,3579,344"/>
+<area shape="rect" id="node24" href="$_send_module_8h.html" title="Connection/SendModule.h" alt="" coords="1151,237,1324,267"/>
+<area shape="rect" id="node60" href="$config_8h.html" title="../config.h" alt="" coords="4173,392,4253,421"/>
+<area shape="rect" id="node62" href="$_h_t_t_p_module_8h.html" title="Connection/HTTPModule.h" alt="" coords="335,160,513,189"/>
+<area shape="rect" id="node82" href="$_log_module_8h.html" title="Log/LogModule.h" alt="" coords="2408,315,2528,344"/>
+<area shape="rect" id="node99" href="$_r_f_i_d_inventory_module_8h.html" title="RFID/RFIDInventoryModule.h" alt="" coords="3608,160,3805,189"/>
+<area shape="rect" id="node134" href="$_signals_handlers_8h.html" title="Signals/SignalsHandlers.h" alt="" coords="852,160,1025,189"/>
+<area shape="rect" id="node158" href="$_raspberrypi_8h.html" title="Raspberrypi.h" alt="" coords="2591,83,2692,112"/>
+<area shape="rect" id="node47" href="$_socket_module_8h.html" title="SocketModule.h" alt="" coords="1872,315,1987,344"/>
+<area shape="rect" id="node55" href="$_module_8h.html" title="../Module.h" alt="" coords="2032,392,2117,421"/>
+<area shape="rect" id="node67" href="$_h_t_t_p_manager_8h.html" title="HTTPManager.h" alt="" coords="355,237,472,267"/>
+<area shape="rect" id="node73" href="$_h_t_t_p_response_8h.html" title="HTTPResponse.h" alt="" coords="195,315,320,344"/>
+<area shape="rect" id="node108" href="$_r_f_i_d_module_8h.html" title="RFIDModule.h" alt="" coords="2679,237,2785,267"/>
+<area shape="rect" id="node114" href="$_r_f_i_d_message_8h.html" title="RFIDMessage.h" alt="" coords="3603,315,3720,344"/>
+<area shape="rect" id="node120" href="$_serial_module_8h.html" title="../Serial/SerialModule.h" alt="" coords="2653,315,2811,344"/>
+<area shape="rect" id="node138" href="$_signals_module_8h.html" title="SignalsModule.h" alt="" coords="1473,237,1591,267"/>
+<area shape="rect" id="node176" href="$_camera_module_8h.html" title="Camera/CameraModule.h" alt="" coords="2835,315,3005,344"/>
+<area shape="rect" id="node194" href="$_sound_module_8h.html" title="Sound/SoundModule.h" alt="" coords="1595,315,1747,344"/>
+</map>

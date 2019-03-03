@@ -1,0 +1,26 @@
+<map id="trunk/Prototipo1b/Module.h" name="trunk/Prototipo1b/Module.h">
+<area shape="rect" id="node3" href="$_camera_module_8h.html" title="trunk/Prototipo1b/Camera\l/CameraModule.h" alt="" coords="848,83,1019,130"/>
+<area shape="rect" id="node13" href="$_h_t_t_p_module_8h.html" title="trunk/Prototipo1b/Connection\l/HTTPModule.h" alt="" coords="137,83,327,130"/>
+<area shape="rect" id="node18" href="$_socket_module_8h.html" title="trunk/Prototipo1b/Connection\l/SocketModule.h" alt="" coords="584,83,773,130"/>
+<area shape="rect" id="node20" href="$_send_module_8h.html" title="trunk/Prototipo1b/Connection\l/SendModule.h" alt="" coords="269,179,459,226"/>
+<area shape="rect" id="node29" href="$_serial_module_8h.html" title="trunk/Prototipo1b/Serial\l/SerialModule.h" alt="" coords="1141,83,1299,130"/>
+<area shape="rect" id="node31" href="$_r_f_i_d_module_8h.html" title="trunk/Prototipo1b/RFID\l/RFIDModule.h" alt="" coords="1043,179,1200,226"/>
+<area shape="rect" id="node33" href="$_r_f_i_d_inventory_module_8h.html" title="trunk/Prototipo1b/RFID\l/RFIDInventoryModule.h" alt="" coords="557,275,723,322"/>
+<area shape="rect" id="node47" href="$_signals_module_8h.html" title="trunk/Prototipo1b/Signals\l/SignalsModule.h" alt="" coords="1456,179,1624,226"/>
+<area shape="rect" id="node58" href="$_sound_module_8h.html" title="trunk/Prototipo1b/Sound\l/SoundModule.h" alt="" coords="1597,83,1760,130"/>
+<area shape="rect" id="node63" href="$_module_8cpp.html" title="trunk/Prototipo1b/Module.cpp" alt="" coords="1784,92,1976,121"/>
+<area shape="rect" id="node5" href="$_camera_module_8cpp.html" title="trunk/Prototipo1b/Camera\l/CameraModule.cpp" alt="" coords="848,179,1019,226"/>
+<area shape="rect" id="node7" href="$_raspberrypi_8h.html" title="trunk/Prototipo1b/Raspberrypi.h" alt="" coords="891,380,1096,409"/>
+<area shape="rect" id="node9" href="$main_8cpp.html" title="trunk/Prototipo1b/main.cpp" alt="" coords="669,467,848,496"/>
+<area shape="rect" id="node11" href="$_raspberrypi_8cpp.html" title="trunk/Prototipo1b/Raspberrypi.cpp" alt="" coords="884,467,1103,496"/>
+<area shape="rect" id="node15" href="$_h_t_t_p_module_8cpp.html" title="trunk/Prototipo1b/Connection\l/HTTPModule.cpp" alt="" coords="5,179,195,226"/>
+<area shape="rect" id="node25" href="$_socket_module_8cpp.html" title="trunk/Prototipo1b/Connection\l/SocketModule.cpp" alt="" coords="533,179,723,226"/>
+<area shape="rect" id="node22" href="$_send_module_8cpp.html" title="trunk/Prototipo1b/Connection\l/SendModule.cpp" alt="" coords="269,275,459,322"/>
+<area shape="rect" id="node43" href="$_serial_module_8cpp.html" title="trunk/Prototipo1b/Serial\l/SerialModule.cpp" alt="" coords="1275,179,1432,226"/>
+<area shape="rect" id="node40" href="$_r_f_i_d_module_8cpp.html" title="trunk/Prototipo1b/RFID\l/RFIDModule.cpp" alt="" coords="1031,275,1188,322"/>
+<area shape="rect" id="node37" href="$_r_f_i_d_inventory_module_8cpp.html" title="trunk/Prototipo1b/RFID\l/RFIDInventoryModule.cpp" alt="" coords="543,371,721,418"/>
+<area shape="rect" id="node49" href="$_signals_handlers_8h.html" title="trunk/Prototipo1b/Signals\l/SignalsHandlers.h" alt="" coords="1313,275,1481,322"/>
+<area shape="rect" id="node56" href="$_signals_module_8cpp.html" title="trunk/Prototipo1b/Signals\l/SignalsModule.cpp" alt="" coords="1505,275,1673,322"/>
+<area shape="rect" id="node53" href="$_signals_handlers_8cpp.html" title="trunk/Prototipo1b/Signals\l/SignalsHandlers.cpp" alt="" coords="1313,371,1481,418"/>
+<area shape="rect" id="node61" href="$_sound_module_8cpp.html" title="trunk/Prototipo1b/Sound\l/SoundModule.cpp" alt="" coords="1748,179,1911,226"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RFIDModule::setPower" name="RFIDModule::setPower">
+<area shape="rect" id="node3" href="$class_r_f_i_d_module.html#a51b9602a13fb5a8e30b6200c0d93e792" title="RFIDModule::log" alt="" coords="255,5,375,35"/>
+<area shape="rect" id="node5" href="$class_r_f_i_d_message.html#af4d6b1f8fed65966fc4e5a1f4b5bb82a" title="RFIDMessage::addCommand" alt="" coords="217,59,412,88"/>
+<area shape="rect" id="node7" href="$class_r_f_i_d_module.html#a0305199b87c251cf9319eb0e8b52666b" title="RFIDModule::sendAndRecieve" alt="" coords="213,112,416,141"/>
+<area shape="rect" id="node9" href="$class_r_f_i_d_message.html#ac70b1898329da275daf0561daf643181" title="RFIDMessage::getBuffer" alt="" coords="483,59,651,88"/>
+<area shape="rect" id="node11" href="$class_r_f_i_d_message.html#ac70808f9960dafcd3b71fa63695484cc" title="RFIDMessage::getLength" alt="" coords="481,112,652,141"/>
+<area shape="rect" id="node13" href="$class_serial_module.html#a059f6ed748e0c623e685a4b57f35057f" title="SerialModule::sendAndReceive" alt="" coords="465,165,668,195"/>
+<area shape="rect" id="node15" href="$class_serial_module.html#a09f340ee5f53ec24e6e5f1cdc1125cee" title="SerialModule::send" alt="" coords="724,112,857,141"/>
+<area shape="rect" id="node17" href="$class_serial_module.html#a72fdc7db8413673842c27c0f44c88aa3" title="SerialModule::log" alt="" coords="729,165,852,195"/>
+<area shape="rect" id="node19" href="$class_serial_module.html#afd49a5e120b179d1af298d33f410b7d2" title="SerialModule::receive" alt="" coords="717,219,864,248"/>
+</map>

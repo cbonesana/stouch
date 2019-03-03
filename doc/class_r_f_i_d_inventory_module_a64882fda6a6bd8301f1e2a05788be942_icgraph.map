@@ -1,0 +1,8 @@
+<map id="RFIDInventoryModule::log" name="RFIDInventoryModule::log">
+<area shape="rect" id="node3" href="$class_r_f_i_d_inventory_module.html#a7959f4bb63e37a4a4b121bacaf790ad0" title="RFIDInventoryModule\l::stop" alt="" coords="431,5,580,51"/>
+<area shape="rect" id="node7" href="$class_r_f_i_d_inventory_module.html#a62899ceb9ce6220abf56bf8f25264fca" title="RFIDInventoryModule\l::process" alt="" coords="231,39,380,86"/>
+<area shape="rect" id="node9" href="$class_r_f_i_d_inventory_module.html#ada7634b03f0efa1ded87a4891ec9efcf" title="RFIDInventoryModule\l::update" alt="" coords="431,99,580,146"/>
+<area shape="rect" id="node12" href="$class_r_f_i_d_inventory_module.html#ab0370913641ec54c967fa5aef8722e5c" title="RFIDInventoryModule\l::enableInventory" alt="" coords="231,159,380,206"/>
+<area shape="rect" id="node14" href="$class_r_f_i_d_inventory_module.html#a151e82f9d7a8af4a77fcadd663db6f7d" title="RFIDInventoryModule\l::disableInventory" alt="" coords="231,229,380,275"/>
+<area shape="rect" id="node5" href="$class_r_f_i_d_inventory_module.html#a2d7618c7ef24c13cf840a1170d143861" title="RFIDInventoryModule\l::RFIDInventoryModule" alt="" coords="631,53,788,99"/>
+</map>

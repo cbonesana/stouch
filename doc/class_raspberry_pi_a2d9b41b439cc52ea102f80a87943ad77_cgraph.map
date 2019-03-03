@@ -1,0 +1,5 @@
+<map id="RaspberryPi::manageExternalCropImage" name="RaspberryPi::manageExternalCropImage">
+<area shape="rect" id="node3" href="$class_raspberry_pi.html#ad2133de299be16fcfb03b8c7f7f555db" title="RaspberryPi::log" alt="" coords="281,5,399,35"/>
+<area shape="rect" id="node5" href="$class_camera_module.html#a3a21cc27eac6795fac37311b68d008de" title="The CameraModule::cropImage method crops the image filename and put the cropped version in the cropDi..." alt="" coords="251,59,429,88"/>
+<area shape="rect" id="node7" href="$class_module.html#a5a038a11dcc1d362d7976e34369eef03" title="Module::log" alt="" coords="479,59,567,88"/>
+</map>

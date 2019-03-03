@@ -1,0 +1,8 @@
+<map id="SendModule::internalTaskStart" name="SendModule::internalTaskStart">
+<area shape="rect" id="node3" href="$class_send_module.html#a2680f244e9e145256afda246c2944d27" title="SendModule::SendModule" alt="" coords="684,47,857,76"/>
+<area shape="rect" id="node5" href="$class_send_module.html#ae23e3fcf85f122fafe65eb7fa7fa52be" title="SendModule::goOnlineMode" alt="" coords="236,42,420,71"/>
+<area shape="rect" id="node7" href="$class_send_module.html#aa37cc60bae87ea0e8053d52b30b6ec50" title="SendModule::manageSocket\lError" alt="" coords="233,94,423,141"/>
+<area shape="rect" id="node12" href="$class_send_module.html#ae21ad5f802fdece476c32ddded901e8a" title="SendModule::manageSocket\lFinished" alt="" coords="233,164,423,210"/>
+<area shape="rect" id="node15" href="$class_send_module.html#a646d0df58f67d4311590d29c535e2a94" title="SendModule::manageTestCrop" alt="" coords="227,234,429,263"/>
+<area shape="rect" id="node9" href="$class_send_module.html#a597e9a216dec303f3692073b0dc8fadd" title="SendModule::startTask" alt="" coords="477,103,635,132"/>
+</map>

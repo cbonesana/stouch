@@ -1,0 +1,13 @@
+<map id="RaspberryPi::init" name="RaspberryPi::init">
+<area shape="rect" id="node3" href="$class_raspberry_pi.html#ad2133de299be16fcfb03b8c7f7f555db" title="RaspberryPi::log" alt="" coords="472,92,589,121"/>
+<area shape="rect" id="node5" href="$class_raspberry_pi.html#ad574cbee422d59088fcaddf6e4e69e65" title="RaspberryPi::RFIDfound." alt="" coords="193,93,359,122"/>
+<area shape="rect" id="node7" href="$class_raspberry_pi.html#a2c4c95c7b8eae21407fca8437f7253dc" title="RaspberryPi::disableAcquisition" alt="" coords="428,14,633,44"/>
+<area shape="rect" id="node9" href="$class_raspberry_pi.html#a0023a2d50335312b98cf698f50ca346a" title="RaspberryPi::playSound" alt="" coords="449,198,612,228"/>
+<area shape="rect" id="node12" href="$class_raspberry_pi.html#acf2243f53f3ae2f742bdf000ec8c5c81" title="RaspberryPi::firstPhoto" alt="" coords="197,146,355,176"/>
+<area shape="rect" id="node18" href="$class_raspberry_pi.html#a5578cf80ed2d1551e9b04b1f50cd2aac" title="RaspberryPi::enableAcquisition" alt="" coords="175,250,377,280"/>
+<area shape="rect" id="node21" href="$class_raspberry_pi.html#a6e7961a404741e321860781eb26c909f" title="RaspberryPi::internalTake\lPhoto" alt="" coords="189,303,363,350"/>
+<area shape="rect" id="node23" href="$class_raspberry_pi.html#a18eb06e80ceb0317ea517465bc00d718" title="RaspberryPi::internalFirst\lPhoto" alt="" coords="191,372,361,419"/>
+<area shape="rect" id="node25" href="$class_raspberry_pi.html#a0fdf527b37c27753d0a9a241b41c55da" title="RaspberryPi::internalError" alt="" coords="191,442,361,472"/>
+<area shape="rect" id="node27" href="$class_raspberry_pi.html#a88dd7d4f27612cdf0f6f6cd219550009" title="RaspberryPi::internalTake\lPhotoOffline" alt="" coords="189,495,363,542"/>
+<area shape="rect" id="node14" href="$class_camera_module.html#a30be791516dddc323cda7bf88655fbae" title="The method CameraModule::takePhoto takes a photo with a wait time of millisec milliseconds and name i..." alt="" coords="443,145,619,174"/>
+</map>

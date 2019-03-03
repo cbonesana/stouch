@@ -1,0 +1,18 @@
+<map id="trunk/Prototipo1b/Raspberrypi.cpp" name="trunk/Prototipo1b/Raspberrypi.cpp">
+<area shape="rect" id="node3" href="$_raspberrypi_8h.html" title="Raspberrypi.h" alt="" coords="1546,83,1647,112"/>
+<area shape="rect" id="node27" href="$_signals_module_8h.html" title="Signals/SignalsModule.h" alt="" coords="848,237,1014,267"/>
+<area shape="rect" id="node53" href="$_log_module_8h.html" title="../Log/LogModule.h" alt="" coords="275,315,408,344"/>
+<area shape="rect" id="node71" href="$_signals_handlers_8h.html" title="Signals/SignalsHandlers.h" alt="" coords="491,160,664,189"/>
+<area shape="rect" id="node80" href="$_camera_module_8h.html" title="Camera/CameraModule.h" alt="" coords="1112,315,1283,344"/>
+<area shape="rect" id="node88" href="$config_8h.html" title="../config.h" alt="" coords="1342,392,1422,421"/>
+<area shape="rect" id="node91" href="$_connection_image_8h.html" title="Connection/ConnectionImage.h" alt="" coords="3828,160,4034,189"/>
+<area shape="rect" id="node94" href="$_h_t_t_p_manager_8h.html" title="Connection/HTTPManager.h" alt="" coords="2395,237,2582,267"/>
+<area shape="rect" id="node112" href="$_h_t_t_p_response_8h.html" title="HTTPResponse.h" alt="" coords="3667,315,3792,344"/>
+<area shape="rect" id="node121" href="$_socket_module_8h.html" title="Connection/SocketModule.h" alt="" coords="3406,315,3592,344"/>
+<area shape="rect" id="node127" href="$_serial_module_8h.html" title="Serial/SerialModule.h" alt="" coords="1459,315,1603,344"/>
+<area shape="rect" id="node137" href="$_r_f_i_d_module_8h.html" title="RFID/RFIDModule.h" alt="" coords="2936,237,3078,267"/>
+<area shape="rect" id="node145" href="$_r_f_i_d_inventory_module_8h.html" title="RFID/RFIDInventoryModule.h" alt="" coords="3016,160,3214,189"/>
+<area shape="rect" id="node155" href="$_sound_module_8h.html" title="Sound/SoundModule.h" alt="" coords="1880,315,2032,344"/>
+<area shape="rect" id="node51" href="$_signals_exception_8h.html" title="SignalsException.h" alt="" coords="702,315,835,344"/>
+<area shape="rect" id="node68" href="$_module_8h.html" title="../Module.h" alt="" coords="2083,392,2168,421"/>
+</map>

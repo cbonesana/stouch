@@ -1,0 +1,15 @@
+<map id="RaspberryPi::create" name="RaspberryPi::create">
+<area shape="rect" id="node3" href="$class_raspberry_pi.html#ae836a26dc87d2c1b0e7f4d229f56ca95" title="RaspberryPi::RaspberryPi." alt="" coords="193,181,367,210"/>
+<area shape="rect" id="node5" href="$class_raspberry_pi.html#ae5cbe6e6fd576ea337455d8173d66f2f" title="RaspberryPi::init" alt="" coords="221,234,339,264"/>
+<area shape="rect" id="node7" href="$class_raspberry_pi.html#ad2133de299be16fcfb03b8c7f7f555db" title="RaspberryPi::log" alt="" coords="715,101,832,130"/>
+<area shape="rect" id="node9" href="$class_raspberry_pi.html#ad574cbee422d59088fcaddf6e4e69e65" title="RaspberryPi::RFIDfound." alt="" coords="436,102,601,132"/>
+<area shape="rect" id="node11" href="$class_raspberry_pi.html#a2c4c95c7b8eae21407fca8437f7253dc" title="RaspberryPi::disableAcquisition" alt="" coords="671,24,876,53"/>
+<area shape="rect" id="node13" href="$class_raspberry_pi.html#a0023a2d50335312b98cf698f50ca346a" title="RaspberryPi::playSound" alt="" coords="692,208,855,237"/>
+<area shape="rect" id="node16" href="$class_raspberry_pi.html#acf2243f53f3ae2f742bdf000ec8c5c81" title="RaspberryPi::firstPhoto" alt="" coords="440,156,597,185"/>
+<area shape="rect" id="node22" href="$class_raspberry_pi.html#a5578cf80ed2d1551e9b04b1f50cd2aac" title="RaspberryPi::enableAcquisition" alt="" coords="417,260,620,289"/>
+<area shape="rect" id="node25" href="$class_raspberry_pi.html#a6e7961a404741e321860781eb26c909f" title="RaspberryPi::internalTake\lPhoto" alt="" coords="432,312,605,359"/>
+<area shape="rect" id="node27" href="$class_raspberry_pi.html#a18eb06e80ceb0317ea517465bc00d718" title="RaspberryPi::internalFirst\lPhoto" alt="" coords="433,382,604,428"/>
+<area shape="rect" id="node29" href="$class_raspberry_pi.html#a0fdf527b37c27753d0a9a241b41c55da" title="RaspberryPi::internalError" alt="" coords="433,452,604,481"/>
+<area shape="rect" id="node31" href="$class_raspberry_pi.html#a88dd7d4f27612cdf0f6f6cd219550009" title="RaspberryPi::internalTake\lPhotoOffline" alt="" coords="432,504,605,551"/>
+<area shape="rect" id="node18" href="$class_camera_module.html#a30be791516dddc323cda7bf88655fbae" title="The method CameraModule::takePhoto takes a photo with a wait time of millisec milliseconds and name i..." alt="" coords="685,154,861,184"/>
+</map>
